@@ -9,9 +9,9 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
-##Key Features
+## Key Features
 
-###User Accounts (Registration and Login):
+### User Accounts (Registration and Login):
 
 **Purpose:** To allow users to create personal accounts for accessing the booking system and to maintain secure login functionality.
 
@@ -20,28 +20,28 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 - Secure login with password encryption.
 
 
-###Court Availability Calendar:
+### Court Availability Calendar:
 **Purpose:** To provide users with an easy-to-use interface for checking the availability of tennis courts.
 **Functionality:**
 - Display of available dates and times.
 - Real-time updates for accuracy.
 
 
-###Booking System with Time Slots:
+### Booking System with Time Slots:
 **Purpose:** To enable users to book courts based on their preferences for date and time.
 **Functionality:**
 - Selection of available time slots for booking.
 - Immediate confirmation of bookings.
 
 
-###Admin Panel for Court Management:
+### Admin Panel for Court Management:
 **Purpose:** To provide administrators with tools to manage court schedules and bookings effectively.
 **Functionality:**
 - Modification of time slots and booking management.
 - Handling special requests and booking adjustments.
 
 
-##Nice to Have
+## Nice to Have
 
 ###Payment Gateway Integration:
 **Purpose:** To facilitate secure online payments for court bookings.
@@ -51,7 +51,7 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
-##Target audience
+## Target audience
 - Local tennis players seeking convenient access to court bookings.
 - Tennis court administrators looking for an efficient way to manage bookings and payments.
 
@@ -59,7 +59,7 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 
 
-##Technical Stack
+## Technical Stack
 
 **Frontend:** HTML5, CSS3, ReactJS, Javascript, JSX.
 **Backend:** NodeJS, ExpressJS.
@@ -72,9 +72,9 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
-##Dataflow Diagram
+## Dataflow Diagram
 
-![Dataflow Diagram](/images/CourtConnect.jpg)
+![Dataflow Diagram](/docs/CourtConnect.jpg)
 
 ---
 
