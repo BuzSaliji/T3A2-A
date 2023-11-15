@@ -43,11 +43,13 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ## Nice to Have
 
-###Payment Gateway Integration:
-**Purpose:** To facilitate secure online payments for court bookings.
-**Functionality:**
-- Integration with a reliable payment gateway.
-- Support for multiple payment methods.
+### Send Confirmation Email:
+**Purpose:** To provide an automated confirmation to users after they successfully book a tennis court.
+
+**Functionality**
+- Automatically triggered email upon successful court booking.
+- Personalized email content including booking date, time, court number, and duration.
+
 
 ---
 
@@ -67,14 +69,17 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 **Deployment:** MongoDB Cloud Atlas, Heroku, Netlify.
 **Testing:** 
 **Project-management:** Trello.
-**Utilities:** Draw.io, Figma.
+**Utilities:** Lucidchart, Figma.
 **DevOps:** Git, Github, VS Code.
 
 ---
 
 ## Dataflow Diagram
 
-![Dataflow Diagram](/docs/CourtConnect.jpg)
+![Dataflow Diagram](/docs/CourtConnect%20(2).jpeg)
 
 ---
 
+### Screenshots
+![](./docs/Screenshot%202023-11-16%20055813.png)
+![](./docs/Screenshot%202023-11-16%20055850.png)
