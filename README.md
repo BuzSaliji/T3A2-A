@@ -1,11 +1,9 @@
 **Burim Saliji - T3A2-A - Full Stack App**
 # CourtConnect
 
-With the construction of a new tennis court in the vicinity, there is an excellent opportunity to develop a dedicated court hire application. This app aims to streamline the process of booking tennis courts, making it more accessible and efficient for both players and court administrators.
-
 ---
 
-**Objective:** To provide a seamless and user-friendly platform for booking tennis courts, enhancing the experience for tennis enthusiasts and simplifying management for court administrators.
+With the construction of a new tennis court in the vicinity, there is an excellent opportunity to develop a dedicated court hire application. This app aims to streamline the process of booking tennis courts, making it more accessible and efficient for both players and court administrators.
 
 ---
 
@@ -66,7 +64,7 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 **Frontend:** HTML5, CSS3, ReactJS, Javascript, JSX.
 **Backend:** NodeJS, ExpressJS.
 **Database:** MongoDB, Mongoose.
-**Deployment:** MongoDB Cloud Atlas, Heroku, Netlify.
+**Deployment:** MongoDB, Cloud Atlas, Heroku, Netlify.
 **Testing:** 
 **Project-management:** Trello.
 **Utilities:** Lucidchart, Figma.
@@ -74,12 +72,47 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
+## User Stories
+
+**Emily**
+- What: Emily wants to create a user account on CourtConnect.
+- Why: So she can easily book tennis courts, view her booking history, and receive updates about court availability.
+
+**John**
+- What: John wants to securely log in to his account each time he uses the app.
+- Why: To ensure his personal booking information and history are kept private and secure.
+
+**Alex** 
+- What: Alex wants to quickly check the availability of tennis courts for the upcoming week.
+- Why: So he can plan his schedule and book a court at a convenient time without having to call the facility.
+
+**Lisa**
+- What: Lisa wants to book a tennis court for her practice sessions.
+- Why: So she can ensure she has a reserved spot for her regular training sessions.
+
+**Mark**
+- What: Mark wants to receive immediate confirmation after booking a court.
+- Why: To be assured that his booking was successful and to have the details for his records
+
+**Sarah**
+- What: Sarah needs to update the court availability schedule and manage existing bookings.
+- Why: To reflect changes in court availability due to maintenance or events and to accommodate special booking requests.
+
+**Mandy**
+- What: Rachel wants to make a special booking request for a series of courts for a local tournament.
+- Why: To ensure the tournament can be accommodated on the desired dates.
+
+---
+
 ## Dataflow Diagram
 
-![Dataflow Diagram](/docs/CourtConnect%20(2).jpeg)
+![Dataflow Diagram](./docs/CourtConnect.jpeg)
 
 ---
 
 ### Screenshots
 ![](./docs/Screenshot%202023-11-16%20055813.png)
 ![](./docs/Screenshot%202023-11-16%20055850.png)
+![](./docs/Screenshot%202023-11-16%20202744.png)
+![](./docs/Screenshot%202023-11-16%20202551.png)
+![](./docs/Screenshot%202023-11-16%20202642.png)
