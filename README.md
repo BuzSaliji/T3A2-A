@@ -110,9 +110,17 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
+## Application Architecture Diagram
+![AAD](./docs/AAD.jpg)
+
+---
+
 ### Screenshots
 ![](./docs/Screenshot%202023-11-16%20055813.png)
 ![](./docs/Screenshot%202023-11-16%20055850.png)
 ![](./docs/Screenshot%202023-11-16%20202744.png)
 ![](./docs/Screenshot%202023-11-16%20202551.png)
 ![](./docs/Screenshot%202023-11-16%20202642.png)
+![](./docs/Screenshot%202023-11-19%20133903.png)
+![]()
+![]()
