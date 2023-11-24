@@ -1,7 +1,6 @@
 **Burim Saliji - T3A2-A - Full Stack App**
 # CourtConnect
 
----
 
 With the construction of a new tennis court in the vicinity, there is an excellent opportunity to develop a dedicated court hire application. This app aims to streamline the process of booking tennis courts, making it more accessible and efficient for both players and court administrators.
 
@@ -115,12 +114,52 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ---
 
-### Screenshots
+##  Screenshots
+
+**Link to my Trello Board:** <https://trello.com/b/XRI0aqcr/courtconnect-a>
+
 ![](./docs/Screenshot%202023-11-16%20055813.png)
 ![](./docs/Screenshot%202023-11-16%20055850.png)
 ![](./docs/Screenshot%202023-11-16%20202744.png)
 ![](./docs/Screenshot%202023-11-16%20202551.png)
 ![](./docs/Screenshot%202023-11-16%20202642.png)
 ![](./docs/Screenshot%202023-11-19%20133903.png)
-![]()
-![]()
+![](./docs/Screenshot%202023-11-20%20132412.png)
+![](./docs/Screenshot%202023-11-20%20132438.png)
+
+---
+
+## Wireframes 
+
+**Link to my Figma wireframe page:** <https://www.figma.com/file/iUxsifiSYNPjbYKfABuleO/Court-Connect?type=design&node-id=0%3A1&mode=design&t=IGikdJ9XmmePbENB-1>
+
+Sign In
+
+![Log in Page](docs/Court%20Connect%20(1).jpg)
+
+Register
+
+![](docs/Court%20Connect.jpg)
+
+Court Availability
+
+![Court Availability Page](docs/Court%20Connect%20(2).jpg)
+
+Booking Confirmation
+
+![Booking Confirmation](docs/Court%20Connect%20(3).jpg)
+
+
+Admin Panel
+
+![Admin Pane](docs/Court%20Connect%20(4).jpg)
+
+Booking Management Page
+
+![Booking Management Page](docs/Court%20Connect%20(5).jpg)
+
+User Management Page
+
+![User Management Page](docs/Court%20Connect%20(6).jpg)
+
+---
