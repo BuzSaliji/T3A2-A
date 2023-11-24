@@ -1,5 +1,5 @@
 **Burim Saliji - T3A2-A - Full Stack App**
-# CourtConnect
+# Court Connect
 
 
 With the construction of a new tennis court in the vicinity, there is an excellent opportunity to develop a dedicated court hire application. This app aims to streamline the process of booking tennis courts, making it more accessible and efficient for both players and court administrators.
@@ -60,11 +60,11 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ## Technical Stack
 
-**Frontend:** HTML5, CSS3, ReactJS, Javascript, JSX.
+**Frontend:** HTML5, CSS3, ReactJS, Javascript, Bootstrap
 **Backend:** NodeJS, ExpressJS.
 **Database:** MongoDB, Mongoose.
 **Deployment:** MongoDB, Cloud Atlas, Heroku, Netlify.
-**Testing:** 
+**Testing:** Jest.
 **Project-management:** Trello.
 **Utilities:** Lucidchart, Figma.
 **DevOps:** Git, Github, VS Code.
@@ -98,7 +98,7 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 - Why: To reflect changes in court availability due to maintenance or events and to accommodate special booking requests.
 
 **Mandy**
-- What: Rachel wants to make a special booking request for a series of courts for a local tournament.
+- What: Mandy wants to make a special booking request for a series of courts for a local tournament.
 - Why: To ensure the tournament can be accommodated on the desired dates.
 
 ---
