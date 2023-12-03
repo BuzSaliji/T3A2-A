@@ -60,14 +60,22 @@ With the construction of a new tennis court in the vicinity, there is an excelle
 
 ## Technical Stack
 
-**Frontend:** HTML5, CSS3, ReactJS, Javascript, Bootstrap
-**Backend:** NodeJS, ExpressJS.
-**Database:** MongoDB, Mongoose.
-**Deployment:** MongoDB, Cloud Atlas, Heroku, Netlify.
-**Testing:** Jest.
-**Project-management:** Trello.
-**Utilities:** Lucidchart, Figma.
-**DevOps:** Git, Github, VS Code.
+### Frontend: 
+HTML5, CSS3, ReactJS, Javascript, Bootstrap
+### Backend: 
+NodeJS, ExpressJS.
+### Database: 
+MongoDB, Mongoose.
+### Deployment: 
+MongoDB, Cloud Atlas, Heroku, Netlify.
+### Testing: 
+Jest.
+### Project-management:
+Trello.
+### Utilities:
+Lucidchart, Figma.
+### DevOps: 
+Git, Github, VS Code.
 
 ---
 
